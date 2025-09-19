@@ -116,7 +116,7 @@ export default function AboutPage() {
                   AI & Code
                 </h1>
                 <p className="text-xl text-muted-foreground mb-8 leading-relaxed">
-                  I'm a Computer Science Engineer and PhD candidate driven by a passion to create a safe digital world. 
+                  I&apos;m a Computer Science Engineer and PhD candidate driven by a passion to create a safe digital world. 
                   My research focuses on building innovative solutions that bridge the gap between cutting-edge AI and 
                   real-world applications in web privacy and data protection.
                 </p>
@@ -182,7 +182,7 @@ export default function AboutPage() {
                 As I progressed through my studies at INPT and began my PhD, my focus sharpened on the incredible potential of combining my engineering skills with cutting-edge AI and machine learning. My work evolved from simple scripts to sophisticated, intelligent systems, each project a new challenge to be solved with purpose and precision. This led me to my current research in web privacy and data protection, a field where I can apply my skills to create a safer digital world.
               </p>
               <p className="text-lg leading-relaxed mb-6" style={{ textAlign: 'justify' }}>
-                Throughout my academic and professional journey, I've had the privilege of architecting and implementing solutions that make a meaningful impact. From building scalable data pipelines to developing real-time ad detection systems, each experience has deepened my understanding of how to build robust, intelligent applications.
+                Throughout my academic and professional journey, I&apos;ve had the privilege of architecting and implementing solutions that make a meaningful impact. From building scalable data pipelines to developing real-time ad detection systems, each experience has deepened my understanding of how to build robust, intelligent applications.
               </p>
               <p className="text-lg leading-relaxed" style={{ textAlign: 'justify' }}>
                 Today, I continue to push the boundaries of what is possible with code. My work is driven by the mission to craft a more secure and transparent digital future, always staying curious about emerging technologies and new challenges.
@@ -369,7 +369,7 @@ export default function AboutPage() {
             </h2>
             <p className="text-xl text-muted-foreground mb-10 max-w-2xl mx-auto leading-relaxed">
               Research without collaboration is like tea without mint; pretty much tasteless.
-              I'm always excited to connect and collectively solve complex problems, 
+              I&apos;m always excited to connect and collectively solve complex problems, 
               because I believe that the best solutions in web privacy and data protection are built together.            
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

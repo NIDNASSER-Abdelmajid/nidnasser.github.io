@@ -1,0 +1,17 @@
+[
+  {
+    "file": "1.jpeg",
+    "description": "Golden hour at the medina",
+    "location": "Fes"
+  },
+  {
+    "file": "2.jpeg", 
+    "description": "Street photography in the old city",
+    "location": "Rabat"
+  },
+  {
+    "file": "3.jpeg",
+    "description": "Architecture details",
+    "location": "Meknes"
+  }
+]

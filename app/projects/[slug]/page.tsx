@@ -244,6 +244,7 @@ export async function generateMetadata({ params }: ProjectPageProps): Promise<Me
     description: project.description,
   }
 }
+export const runtime = 'edge';
 
 export default async function ProjectPage({ params }: ProjectPageProps) {
   const { slug } = await params

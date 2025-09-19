@@ -1,6 +1,7 @@
 'use client'
 
 import { lazy, Suspense } from "react"
+import { Analytics } from "@vercel/analytics/next"
 import { HeroSection } from "@/components/sections/hero" // Keep hero section for immediate loading
 import { AnimatedBackground } from "@/components/3d/animated-background"
 
@@ -51,6 +52,7 @@ export default function HomePage() {
       />
 
       <main className="min-h-screen relative overflow-x-hidden">
+        <Analytics />
         {/* 3D Animated Background */}
         <div className="fixed top-0 left-0 w-full h-full -z-10">
           <AnimatedBackground />

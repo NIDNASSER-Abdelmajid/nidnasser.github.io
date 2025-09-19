@@ -16,7 +16,7 @@ import {
   ExternalLink,
   Download
 } from 'lucide-react'
-import { Description } from '@radix-ui/react-dialog'
+// import { Description } from '@radix-ui/react-dialog'
 
 export const metadata: Metadata = {
   title: 'Experience | Abdelmajid NIDNASSER - PhD Candidate & Data Engineer',

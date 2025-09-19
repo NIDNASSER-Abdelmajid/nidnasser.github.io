@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { ArrowRight } from "lucide-react";
 import { motion } from "framer-motion";
+import Image from "next/image";
 
 // Tech stack updated to reflect your core skills listed in the resume
 const techStack = [
@@ -101,11 +102,13 @@ export function HeroSection() {
                             animate={{ opacity: 1, scale: 1 }}
                             transition={{ duration: 0.5, delay: 0.4, ease: "easeOut" }}
                         >
-                            <img
+                            <Image
                                 src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
                                 alt="Coding animation"
+                                width={800} // set an appropriate width
+                                height={600} // set an appropriate height
                                 className="w-full h-auto object-cover"
-                            />
+                                />
                         </motion.div>
 
                         {/* Tech Stack */}

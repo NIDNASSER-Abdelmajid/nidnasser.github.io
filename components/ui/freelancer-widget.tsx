@@ -74,11 +74,6 @@ export function FreelancerWidget() {
       </div>
 
       {/* Tracking pixel (hidden) */}
-      <img 
-        src="#"
-        alt=""
-        className="hidden"
-      />
     </Card>
   );
 }

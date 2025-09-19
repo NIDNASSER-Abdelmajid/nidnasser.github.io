@@ -5,7 +5,7 @@ import { Badge } from '@/components/ui/badge'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
-import { ExternalLink, Microscope, Github, Calendar, Clock, Code, Brain, Database, Cpu, Rocket } from 'lucide-react'
+import { ExternalLink, Microscope, Github, Calendar, Clock, Code, Brain, Cpu, Rocket } from 'lucide-react'
 import { AnimatedBackground } from '@/components/3d/animated-background'
 
 export const metadata: Metadata = {

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
-import { Github, Linkedin, X } from "lucide-react";
+import { Github, Linkedin } from "lucide-react";
 
 // Minimal custom Freelancer logo (origami-style bird) in single color to match icon set
 const XLogo = ({ className }: { className?: string }) => (

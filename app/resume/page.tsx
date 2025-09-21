@@ -26,9 +26,9 @@ const personalInfo = {
   title: 'PhD Candidate & Data Engineer',
   email: 'abdelmajidnidnasser1@gmail.com',
   location: 'Rabat, Morocco',
-  website: 'https://abdelmajid-nidnasser.com',
+  website: 'https://nidnasser.me',
   freelancer: 'https://www.freelancer.com/u/NIDNASSER',
-  portfolioAlt: 'http://nidnasser.vercel.app/',
+  portfolioAlt: 'http://nidnasser.me/',
   linkedin: 'linkedin.com/in/abdelmajid-nidnasser',
   github: 'github.com/NIDNASSER-Abdelmajid',
 }

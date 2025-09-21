@@ -4,7 +4,7 @@ A premium, credibility-first portfolio website for Abdelmajid NIDNASSER, PhD Can
 
 ## 🚀 Live Demo
 
-[View Live Portfolio](https://abdelmajidnidnasser.com) (Replace with actual URL)
+[View Live Portfolio](https://nidnasser.me) (Replace with actual URL)
 
 ## ✨ Features
 
@@ -189,4 +189,4 @@ MIT License - feel free to use this template for your own portfolio.
 
 ---
 
-Built with ❤️ by [Abdelmajid NIDNASSER](https://abdelmajidnidnasser.com)
+Built with ❤️ by [Abdelmajid NIDNASSER](https://nidnasser.me)

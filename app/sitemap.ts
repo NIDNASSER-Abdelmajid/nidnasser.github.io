@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://abdelmajidnidnasser.com'
+  const baseUrl = 'https://nidnasser.me'
   const lastModified = new Date()
 
   // Static pages

@@ -25,7 +25,7 @@ export default function HomePage() {
             "@type": "Person",
             "name": "Abdelmajid NIDNASSER",
             "jobTitle": "PhD Candidate & Data Engineer",
-            "url": "https://abdelmajidnidnasser.com",
+            "url": "https://nidnasser.me",
             "sameAs": [
               "https://www.linkedin.com/in/abdelmajid-nidnasser",
               "https://github.com/NIDNASSER-Abdelmajid"

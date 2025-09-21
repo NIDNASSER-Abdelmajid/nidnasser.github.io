@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     description: 'Portfolio of Abdelmajid NIDNASSER, Computer Science Engineer & PhD Candidate and freelance AI & full‑stack engineer specializing in Python. Explore case studies, experience, and get in touch.',
     images: [
       {
-        url: '/og-image.jpg',
+        url: '/logo.png',
         width: 1200,
         height: 630,
         alt: 'Abdelmajid NIDNASSER - PhD Candidate & Data Engineer',

@@ -19,11 +19,11 @@ export const metadata: Metadata = {
   keywords: ["Software Engineer", "Next.js", "React", "TypeScript", "Tailwind CSS", "Node.js", "Portfolio", "Developer", "PhD Candidate", "Research"],
   authors: [{ name: "Abdelmajid NIDNASSER" }],
   creator: "Abdelmajid NIDNASSER",
-  metadataBase: new URL("https://abdelmajidnidnasser.com"),
+  metadataBase: new URL("https://nidnasser.me"),
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://abdelmajidnidnasser.com",
+    url: "https://nidnasser.me",
     siteName: "Abdelmajid NIDNASSER Portfolio",
     title: "Abdelmajid NIDNASSER — PhD Candidate & Data Engineer",
     description: "Portfolio of Abdelmajid NIDNASSER, a passionate Computer Science Engineer and PhD Candidate specializing in AI-driven systems, Natural Language Processing, and scalable data solutions. Explore my research, publications, projects, and collaborations.",

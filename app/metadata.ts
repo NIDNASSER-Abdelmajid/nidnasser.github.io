@@ -18,17 +18,17 @@ export const metadata: Metadata = {
     'Portfolio',
     'Web Privacy'
   ],
-  authors: [{ name: 'Abdelmajid NIDNASSER', url: 'https://abdelmajid-nidnasser.com' }],
+  authors: [{ name: 'Abdelmajid NIDNASSER', url: 'https://nidnasser.me' }],
   creator: 'Abdelmajid NIDNASSER',
   publisher: 'Abdelmajid NIDNASSER',
-  metadataBase: new URL('https://abdelmajid-nidnasser.com'),
+  metadataBase: new URL('https://nidnasser.me'),
   alternates: {
-    canonical: 'https://abdelmajid-nidnasser.com',
+    canonical: 'https://nidnasser.me',
   },
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://abdelmajid-nidnasser.com',
+    url: 'https://nidnasser.me',
     siteName: 'Abdelmajid NIDNASSER Portfolio',
     title: 'Abdelmajid NIDNASSER — PhD Candidate & Data Engineer',
     description: 'Portfolio of Abdelmajid NIDNASSER, Computer Science Engineer & PhD Candidate and freelance AI & full‑stack engineer specializing in Python. Explore case studies, experience, and get in touch.',
